@@ -25,7 +25,7 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **React **
+- **React**
 
 ## Setup Instructions
 1. Clone the repository:
