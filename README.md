@@ -9,8 +9,8 @@ Currently, two official plugins are available:
 
 # Personal Portfolio
 
-![Portfolio Screenshot]("![picA](https://github.com/user-attachments/assets/2680c8a0-26ac-43b9-b33e-76bb0f5739ae)
-")
+![Portfolio Screenshot]
+("![image](https://github.com/user-attachments/assets/c594c877-5f78-4802-9179-64cb5786ba32)")
 
 ## About the Portfolio
 This is my personal portfolio website where I showcase my skills, projects, and experience as a web developer. The website includes the following sections:
