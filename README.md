@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Personal Portfolio
 
-![Portfolio Screenshot](image.png)
+![Portfolio Screenshot]("C:\Users\Poushmita\OneDrive\Desktop\My pictures\picA.jpg")
 
 ## About the Portfolio
 This is my personal portfolio website where I showcase my skills, projects, and experience as a web developer. The website includes the following sections:
