@@ -47,20 +47,13 @@ This is my personal portfolio website where I showcase my skills, projects, and 
    Alternatively, you can deploy it to GitHub Pages or any hosting platform of your choice.
 
 ## Deployment
-- Hosted on: [Your Deployment Platform](link-to-live-portfolio)
+- Hosted on: [https://poushmita-portfolio.netlify.app] (link-to-live-portfolio)
 
 ## Contributing
 If you'd like to contribute:
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
 - Submit a pull request.
-
-## Contact
-Feel free to reach out to me on:
-- [LinkedIn](#)
-- [Facebook](#)
-- [YouTube](#)
-- [Telegram](#)
 
 ---
 
