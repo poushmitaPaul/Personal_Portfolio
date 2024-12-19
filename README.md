@@ -31,7 +31,7 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/poushmitaPaul/Personal_Portfolio.git
    ```
 
 2. Navigate to the project folder:
