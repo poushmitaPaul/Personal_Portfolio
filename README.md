@@ -26,6 +26,7 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 - **CSS3**
 - **JavaScript**
 - **React**
+- **Tailwind CSS**
 
 ## Setup Instructions
 1. Clone the repository:
