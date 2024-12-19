@@ -8,9 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Personal Portfolio
-
-![Portfolio Screenshot]
-("![image](https://github.com/user-attachments/assets/c594c877-5f78-4802-9179-64cb5786ba32)")
+![image](https://github.com/user-attachments/assets/c594c877-5f78-4802-9179-64cb5786ba32)
 
 ## About the Portfolio
 This is my personal portfolio website where I showcase my skills, projects, and experience as a web developer. The website includes the following sections:
